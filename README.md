@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodrigoAylmer
 - 👀 I’m interested in learning something new
-- 🌱 I’m currently learning python as a self development interest
+- 🌱 I’m currently learning python and HTML to enhance intelligence services in my company
 - 📫 How to reach me: send a message here in github
 - ⚡ Fun fact: I'm a Brazilian Environmental Engineer
 
